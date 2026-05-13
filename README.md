@@ -2,12 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CVPR%202026-Highlight-f59e0b?style=flat-square&labelColor=111827" alt="CVPR 2026 Highlight">
-  <a href="https://yuchenzou.github.io/FlowPalm/">
-    <img src="https://img.shields.io/badge/Project-Page-16a34a?style=flat-square&labelColor=111827&logo=githubpages&logoColor=white" alt="Project Page">
-  </a>
-  <a href="https://arxiv.org/abs/2604.09989">
-    <img src="https://img.shields.io/badge/arXiv-2604.09989-b91c1c?style=flat-square&labelColor=111827&logo=arxiv&logoColor=white" alt="arXiv Paper">
-  </a>
+  <a href="https://yuchenzou.github.io/FlowPalm/"><img src="https://img.shields.io/badge/Project-Page-16a34a?style=flat-square&labelColor=111827&logo=githubpages&logoColor=white" alt="Project Page"></a>
+  <a href="https://arxiv.org/abs/2604.09989"><img src="https://img.shields.io/badge/arXiv-2604.09989-b91c1c?style=flat-square&labelColor=111827&logo=arxiv&logoColor=white" alt="arXiv Paper"></a>
 </p>
 
 FlowPalm is an optical-flow-driven palmprint generation framework for synthesizing geometrically diverse and identity-consistent palmprints. Instead of relying only on style translation or handcrafted transformations, FlowPalm estimates non-rigid deformation priors from real palmprint pairs and injects them into diffusion sampling.
