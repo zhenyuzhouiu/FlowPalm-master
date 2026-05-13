@@ -1,0 +1,14 @@
+{
+  "train_data": "data/train_images",
+  "sample_crease_dir": "data/sample_creases",
+  "results_dir": "results/train_crease",
+  "train_batch_size": 16,
+  "train_lr": 8e-05,
+  "train_num_steps": 200000,
+  "gradient_accumulate_every": 2,
+  "ema_decay": 0.995,
+  "amp": true,
+  "calculate_fid": false,
+  "save_and_sample_every": 5000,
+  "num_samples": 25
+}

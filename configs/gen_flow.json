@@ -1,0 +1,11 @@
+{
+  "input_dir": "/home/zouyuchen/data/ROI_L",
+  "output_dir": "outputs/flow",
+  "recognize_ckpt": "checkpoints/recognize_weight.pth",
+  "max_pairs": 40,
+  "cosine_threshold": 0.4,
+  "flow_threshold": 0.01,
+  "max_identities": 10, 
+  "flow_compress": true,
+  "flow_dtype": "float16"
+}

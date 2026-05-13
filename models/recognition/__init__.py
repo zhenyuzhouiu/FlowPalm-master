@@ -1,0 +1,1 @@
+from models.recognition.mobile_face_net import MobileFaceNet
