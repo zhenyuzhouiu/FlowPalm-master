@@ -1,15 +1,12 @@
 # FlowPalm: Optical Flow Driven Non-Rigid Deformation for Geometrically Diverse Palmprint Generation
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CVPR%202026-Highlight-f59e0b?style=for-the-badge&labelColor=111827&color=f59e0b" alt="CVPR 2026 Highlight">
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/CVPR%202026-Highlight-f59e0b?style=flat-square&labelColor=111827" alt="CVPR 2026 Highlight">
   <a href="https://yuchenzou.github.io/FlowPalm/">
-    <img src="https://img.shields.io/badge/Project-Page-7ac943?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=555555" alt="Project Page">
+    <img src="https://img.shields.io/badge/Project-Page-16a34a?style=flat-square&labelColor=111827&logo=githubpages&logoColor=white" alt="Project Page">
   </a>
   <a href="https://arxiv.org/abs/2604.09989">
-    <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=555555" alt="arXiv Paper">
+    <img src="https://img.shields.io/badge/arXiv-2604.09989-b91c1c?style=flat-square&labelColor=111827&logo=arxiv&logoColor=white" alt="arXiv Paper">
   </a>
 </p>
 
