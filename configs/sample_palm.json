@@ -3,7 +3,7 @@
   "crease_dir": "outputs/line",
   "flow_dir": "outputs/flow",
   "ckpt": "checkpoints/flowpalm.pt",
-  "per_ID_num": 40,
+  "per_ID_num": 20,
   "uncondition_t": 0.25,
   "clean_t": 0.5,
   "num_workers": 8
